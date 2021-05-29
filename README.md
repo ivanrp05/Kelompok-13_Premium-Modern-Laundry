@@ -1,4 +1,4 @@
-
+# Kelompok-13_Premium-Modern-Laundry
 [Ronz's Premium Laundry (Premium Laundry Program)]
 
 Tugas Besar Praktikum Program Komputer 2021 Kelas B
@@ -21,7 +21,6 @@ Berkas "README.md"
 System Requirement
 Spesifikasi minimum untuk menjalankan program kami adalah.... (Mohon maaf masih dilakukan pengecekan)
 
-# Kelompok-13_Premium-Modern-Laundry
 Repository ini untuk pengumpulan penugasan Praktikum Programa Komputer dengan anggota :
 - Ivanindra Rizky P 				/ I0320054
 - Larasati Fadhilah A	 			/ I0320055
